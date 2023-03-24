@@ -1,8 +1,7 @@
 title: Adrian Jarret
 description: Personal academic webpage.
-author:
-  name: "Adrian Jarret"
-  email: adrian.jarret@epfl.ch
+author: "Adrian Jarret"
+email: adrian.jarret@epfl.ch
 
 theme: minima
 
@@ -14,6 +13,9 @@ github_username: AdriaJ
 # linkedin_username: jsanz
 # rss: rss
 
+social_links:
+ - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=WXJAMi0AAAAJ" }
+
 # Minima: show excerpts in the frontpage
 # show_excerpts: true
 
@@ -24,7 +26,9 @@ minima:
 header_pages:
   - _pages/frontpage.md
   - _pages/about.md
-  - _pages/archive.md
+  - _pages/talks.md
+  - _pages/pubs.md
+  # - _pages/archive.md
 
 include:
     - _pages
