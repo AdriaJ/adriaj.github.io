@@ -1,5 +1,5 @@
 title: Adrian Jarret
-description: Personal academic webpage.
+description: PhD Student in Signal Processing at EPFL.
 author: "Adrian Jarret"
 email: adrian.jarret@epfl.ch
 
@@ -25,7 +25,7 @@ minima:
 # Minima: custom header links
 header_pages:
   - _pages/frontpage.md
-  - _pages/about.md
+  # - _pages/about.md
   - _pages/talks.md
   - _pages/pubs.md
   # - _pages/archive.md
