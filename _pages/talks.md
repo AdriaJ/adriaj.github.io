@@ -23,24 +23,24 @@ List of the last public presentations (check out the slides!)
   *<u>Adrian Jarret</u>, Julien Fageot, Matthieu Simeoni*
 
   [<a href="/assets/talks/icip22.pdf" target="_blank">Poster</a>] [Video]
-  
+
 
 * **Swiss SKA Days** - PolyCLEAN: A Frank-Wolfe ALgorithm for source deconvolution with sparsity priors
 
   *<u>Adrian Jarret</u>*
 
-  [<a href="/assets/talks/skadays22.pdf" target="_blank">Poster</a>]
+  [<a href="/assets/talks/skadays22.pdf" target="_blank">Slides</a>]
 
 * **GRETSI** - Une Version Polyatomique de l'algorithme Frank-Wolfe pour le problème LASSO en grandes dimensions
 
   *<u>Adrian Jarret</u>, Matthieu SImeoni, Julien Fageot*
 
-  [<a href="/assets/talks/gretsi2022.pdf" target="_blank">Poster</a>]
+  [<a href="/assets/talks/gretsi2022.pdf" target="_blank">Slides</a>]
 
 * **CANUM** - L'algorithme de Frank-Wolfe: une version Polyatomique pour la r'esolution rapide du problème LASSO
   *<u>Adrian Jarret</u>*
 
-  [<a href="/assets/talks/canum.pdf" target="_blank">Poster</a>]
+  [<a href="/assets/talks/canum.pdf" target="_blank">Slides</a>]
 
 ---
 
@@ -50,4 +50,4 @@ List of the last public presentations (check out the slides!)
 
   *<u>Adrian Jarret</u>*
 
-  [<a href="/assets/talks/skadays21.pdf" target="_blank">Poster</a>]
+  [<a href="/assets/talks/skadays21.pdf" target="_blank">Slides</a>]
