@@ -10,7 +10,7 @@ title: Welcome
       Currently in my third year of PhD, I am enrolled in the <a href="https://www.epfl.ch/labs/lcav/">Laboratory of AudioVisual Communications (LCAV)</a> at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland. I work under the supervision of <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Prof. Martin Vetterli</a>, <a href="https://people.epfl.ch/matthieu.simeoni">Dr. Matthieu Simeoni</a> and <a href="http://bigwww.epfl.ch/fageot/index.html">Dr. Julien Fageot</a>.
       <br>My research interests are centered around <b>Sparse Signals Reconstruction</b>, in continuous or discrete domains, with a focus on developing efficient numerical methods. My research work includes applications to <b>Radio Interferometry</b> in astronomy.
       <br><br>
-      You can find the slides and posters of my public presentations in the [Talks]({{ site.base_url }}{% link _pages/talks.md %}) tab. My journal publications are listed in the [Publications](/pubs) tab.
+      You can find the slides and posters of my public presentations in the <a href="{{ site.base_url }}{% link _pages/talks.md %}">Talks</a> tab. My journal publications are listed in the <a href="/pubs">Publications</a> tab.
       <br><br>
       Don't hesitate to reach out! --
     </p>
