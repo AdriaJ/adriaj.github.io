@@ -21,6 +21,8 @@ title: Welcome
 
 # News
 
+❗The slides of the **PolyCLEAN** presentation at MPIfR are available here: 🔴 [<a href="/assets/talks/polyclean_mpifr.pdf" target="_blank">Slides</a>]. 🔴
+
 * The **Polyatomic Frank-Wolfe** algorithm to solve the LASSO problem is available on my GitHub page, check the illustration notebook and the reconstruction example files for a demo.
   [[Code](https://github.com/AdriaJ/pyfw-lasso)]
 
