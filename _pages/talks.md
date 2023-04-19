@@ -8,6 +8,12 @@ List of the last public presentations (check out the slides!)
 
 ### 2023
 
+* **MPIfR Invited Talk** - PolyCLEAN: Convex Optimization for Radio Interferometry with a CLEAN-like Polyatomic Algorithm
+
+  *<u>Adrian Jarret</u>*
+
+  [<a href="/assets/talks/polyclean_mpifr.pdf" target="_blank">Slides</a>]
+
 * **BASP Frontiers** - PolyCLEAN: A Polyatomic Frank-Wolfe Algorithm for Interferometric Imaging
 
   *<u>Adrian Jarret</u>, Julien Fageot, Matthieu Simeoni*
@@ -38,6 +44,7 @@ List of the last public presentations (check out the slides!)
   [<a href="/assets/talks/gretsi2022.pdf" target="_blank">Slides</a>]
 
 * **CANUM** - L'algorithme de Frank-Wolfe: une version Polyatomique pour la r'esolution rapide du problème LASSO
+
   *<u>Adrian Jarret</u>*
 
   [<a href="/assets/talks/canum.pdf" target="_blank">Slides</a>]
