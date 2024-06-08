@@ -5,6 +5,16 @@ title: Talks
 ---
 
 List of the last public presentations (check out the slides!)
+### 2024
+
+* **EUSIPCO 2024** - Accepted, August 2024.
+
+*<u>Adrian Jarret</u>, ValérieCosta, Julien Fageot*
+
+[Slides (to come)]
+
+
+---
 
 ### 2023
 

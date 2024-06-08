@@ -7,12 +7,12 @@ title: Welcome
 
 <div style="text-align:justify;">
     <p><img src="/assets/img/profile_compressed.jpg" alt="" width="25%" style="float:left;margin-right:20px;">
-      Currently in my third year of PhD, I am enrolled in the <a href="https://www.epfl.ch/labs/lcav/">Laboratory of AudioVisual Communications (LCAV)</a> at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland. I work under the supervision of <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Prof. Martin Vetterli</a>, <a href="https://people.epfl.ch/matthieu.simeoni">Dr. Matthieu Simeoni</a> and <a href="http://bigwww.epfl.ch/fageot/index.html">Dr. Julien Fageot</a>.
+      Currently in my fourth year of PhD, I am enrolled in the <a href="https://www.epfl.ch/labs/lcav/">Laboratory of AudioVisual Communications (LCAV)</a> at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland. I work under the supervision of <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Prof. Martin Vetterli</a>, <a href="https://people.epfl.ch/matthieu.simeoni">Dr. Matthieu Simeoni</a> and <a href="http://bigwww.epfl.ch/fageot/index.html">Dr. Julien Fageot</a>.
       <br>My research interests are centered around <b>Sparse Signals Reconstruction</b>, in continuous or discrete domains, with a focus on developing efficient numerical methods. My research work includes applications to <b>Radio Interferometry</b> in astronomy.
       <br><br>
       You can find the slides and posters of my public presentations in the <a href="{{ site.base_url }}{% link _pages/talks.md %}">Talks</a> tab. My journal publications are listed in the <a href="/pubs">Publications</a> tab.
       <br><br>
-      Don't hesitate to reach out! --
+      Don't hesitate to reach out!
     </p>
 </div>
 
@@ -21,12 +21,12 @@ title: Welcome
 
 # News
 
-❗The slides of the **PolyCLEAN** presentation at MPIfR are available here: 🔴 [<a href="/assets/talks/polyclean_mpifr.pdf" target="_blank">Slides</a>]. 🔴
+* The official journal paper for **PolyCLEAN** has been subitted to *Astronomy & Astrophysics*, pre-print available <a href="https://arxiv.org/abs/2406.01342">here</a>.
+
+* Our paper **A Decoupled Approach for Composite Sparse-plus-Smooth Penalized Optimization** has been accepted to EUSIPCO 2024 ! Pre-print available <a href="https://arxiv.org/abs/2403.05204">here</a>.
 
 * The **Polyatomic Frank-Wolfe** algorithm to solve the LASSO problem is available on my GitHub page, check the illustration notebook and the reconstruction example files for a demo.
   [[Code](https://github.com/AdriaJ/pyfw-lasso)]
-
-* Check the **PolyCLEAN** poster, the Polyatomic Frank-Wolfe algorithm applied for radio interferometry, presented at BASP Frontiers 2023 [<a href="/assets/talks/basp23.pdf" target="_blank">Poster</a>].
 
 
 <div style="margin-top: 60px;"></div>
@@ -37,8 +37,9 @@ title: Welcome
 I have been **teaching assistant** for the following classes at EPFL:
   * Analysis 101
   * Signal Processing for Communications (COM 303)
+  * Signal Processing (COM 202)
 
-I am also a **reviewer** for the Journal of Machine Learning Research (JMLR).
+I am also a **reviewer** for the *Journal of Machine Learning Research (JMLR)* and *Applied and Computational Harmonic Analysis (ACHA)*.
 
 <!-- This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
 
