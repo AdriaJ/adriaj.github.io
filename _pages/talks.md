@@ -8,6 +8,12 @@ List of the last public presentations (check out the slides!)
 
 ### 2023
 
+* **Swiss SKA Days** - PolyCLEAN: A Polyatomic CLEAN-like algorithm for sparse Bayesian imaging
+
+  *<u>Adrian Jarret</u>*
+
+  [<a href="/assets/talks/skadays23.pdf" target="_blank">Slides</a>]
+
 * **MPIfR Invited Talk** - PolyCLEAN: Convex Optimization for Radio Interferometry with a CLEAN-like Polyatomic Algorithm
 
   *<u>Adrian Jarret</u>*
