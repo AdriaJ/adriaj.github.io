@@ -7,11 +7,21 @@ title: Talks
 List of the last public presentations (check out the slides!)
 ### 2024
 
-* **EUSIPCO 2024** - Accepted, August 2024.
+* [Accepted, August 2024]
 
-  *<u>Adrian Jarret</u>, ValérieCosta, Julien Fageot*
+  **EUSIPCO 2024** - A Decoupled Approach for Composite Sparse-plus-Smooth Penalized Optimization
+
+  *<u>Adrian Jarret</u>, Valérie Costa, Julien Fageot*
 
   [Slides (to come)]
+
+* [Accepted, July 2024]
+
+   **ICCP 2024** - A Fast Background Separation with Composite Optimization Problems
+
+  *<u>Adrian Jarret</u>, Valérie Costa, Julien Fageot*
+
+  [Poster (to come)]
 
 
 ---
