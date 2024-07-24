@@ -4,6 +4,8 @@ author: "Adrian Jarret"
 email: adrian.jarret@epfl.ch
 
 theme: minima
+plugins:
+  - jekyll-seo-tag
 
 # base_url: /gh-pages-minima-starter
 

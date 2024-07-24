@@ -21,7 +21,9 @@ title: Welcome
 
 # News
 
-* The official journal paper for **PolyCLEAN** has been subitted to *Astronomy & Astrophysics*, pre-print available <a href="https://arxiv.org/abs/2406.01342">here</a>.
+* Poster for <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO 2024</a> article **A Decoupled Approach for Composite Sparse-plus-Smooth Penalized Optimization** available <a href="/assets/talks/eusipco2024.pdf">here</a>, also showcased during <a href="https://iccp2024.iccp-conference.org/">ICCP2024</a> (check <a href="/pubs">Publications</a> tab for the paper).
+
+* The official journal paper for **PolyCLEAN** has been subitted to <a href="https://www.aanda.org/">*Astronomy & Astrophysics*</a>, pre-print available <a href="https://arxiv.org/abs/2406.01342">here</a>.
 
 * Our paper **A Decoupled Approach for Composite Sparse-plus-Smooth Penalized Optimization** has been accepted to EUSIPCO 2024 ! Pre-print available <a href="https://arxiv.org/abs/2403.05204">here</a>.
 
@@ -32,7 +34,7 @@ title: Welcome
 <div style="margin-top: 60px;"></div>
 
 
-#  Additional activities
+#  Academic activities
 
 I have been **teaching assistant** for the following classes at EPFL:
   * Analysis 101

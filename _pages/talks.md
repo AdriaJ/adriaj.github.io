@@ -13,7 +13,7 @@ List of the last public presentations (check out the slides!)
 
   *<u>Adrian Jarret</u>, Valérie Costa, Julien Fageot*
 
-  [Slides (to come)]
+  [<a href="/assets/talks/eusipco2024.pdf" target="_blank">Poster</a>]
 
 * [Accepted, July 2024]
 
@@ -21,7 +21,7 @@ List of the last public presentations (check out the slides!)
 
   *<u>Adrian Jarret</u>, Valérie Costa, Julien Fageot*
 
-  [Poster (to come)]
+  [<a href="/assets/talks/eusipco2024.pdf" target="_blank">Poster</a>]
 
 
 ---
