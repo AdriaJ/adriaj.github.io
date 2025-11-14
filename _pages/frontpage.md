@@ -7,7 +7,9 @@ title: Welcome
 
 <div style="text-align:justify;">
     <p><img src="/assets/img/profile_compressed.jpg" alt="" width="25%" style="float:left;margin-right:20px;">
-      Currently in my fourth year of PhD, I am enrolled in the <a href="https://www.epfl.ch/labs/lcav/">Laboratory of AudioVisual Communications (LCAV)</a> at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland. I work under the supervision of <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Prof. Martin Vetterli</a>, <a href="https://people.epfl.ch/matthieu.simeoni">Dr. Matthieu Simeoni</a> and <a href="http://bigwww.epfl.ch/fageot/index.html">Dr. Julien Fageot</a>.
+      <b>Applied Scientist | Signal Processing & Machine Learning <br>Open to R&D and Data Science positions</b>
+      <br><br>
+      I recently graduated from a PhD degree at <a href="https://www.epfl.ch/en/">EPFL</a>, Switzerland. I worked in the <a href="https://www.epfl.ch/labs/lcav/">Laboratory of AudioVisual Communications (LCAV)</a>, under the supervision of <a href="https://www.epfl.ch/labs/lcav/people/martin-vetterli/">Prof. Martin Vetterli</a>, <a href="https://people.epfl.ch/matthieu.simeoni">Dr. Matthieu Simeoni</a> and <a href="http://bigwww.epfl.ch/fageot/index.html">Dr. Julien Fageot</a>.
       <br>My research interests are centered around <b>Sparse Signals Reconstruction</b>, in continuous or discrete domains, with a focus on developing efficient numerical methods. My research work includes applications to <b>Radio Interferometry</b> in astronomy.
       <br><br>
       You can find the slides and posters of my public presentations in the <a href="{{ site.base_url }}{% link _pages/talks.md %}">Talks</a> tab. My journal publications are listed in the <a href="/pubs">Publications</a> tab.
@@ -21,7 +23,7 @@ title: Welcome
 
 # News
 
-* Poster for <a href="https://eusipcolyon.sciencesconf.org/">EUSIPCO 2024</a> article **A Decoupled Approach for Composite Sparse-plus-Smooth Penalized Optimization** available <a href="/assets/talks/eusipco2024.pdf">here</a>, also showcased during <a href="https://iccp2024.iccp-conference.org/">ICCP2024</a> (check <a href="/pubs">Publications</a> tab for the paper).
+* I successfully defended my PhD on June 12, 2025. Find the slides in the <a href="/talks">Talks</a> tab and the official manuscript on <a href="https://infoscience.epfl.ch/entities/publication/44559433-dcbd-4333-bff3-035106c42c86/statistics">Infoscience</a>.
 
 * The official journal paper for **PolyCLEAN** has been subitted to <a href="https://www.aanda.org/">*Astronomy & Astrophysics*</a>, pre-print available <a href="https://arxiv.org/abs/2406.01342">here</a>.
 
@@ -40,6 +42,7 @@ I have been **teaching assistant** for the following classes at EPFL:
   * Analysis 101
   * Signal Processing for Communications (COM 303)
   * Signal Processing (COM 202)
+  * Advanced information, computation, communication I (CS 101)
 
 I am also a **reviewer** for the *Journal of Machine Learning Research (JMLR)* and *Applied and Computational Harmonic Analysis (ACHA)*.
 
